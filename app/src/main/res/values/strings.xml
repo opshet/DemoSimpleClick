@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo Simple Click</string>
+    <string name="hint">Enter Something</string>
+</resources>
